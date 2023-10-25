@@ -60,6 +60,7 @@
   "files.associations": {
     "*.ejs": "html",
     "cmath": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "iostream": "cpp"
   }
 }
