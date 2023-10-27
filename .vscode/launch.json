@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/rohil/Dropbox/PC/Desktop/DSA_Practice",
-      "program": "c:/Users/rohil/Dropbox/PC/Desktop/DSA_Practice/build/Debug/outDebug",
+      "cwd": "c:/Users/rohil/Dropbox/PC/Desktop/DSA_Practice/Basics",
+      "program": "c:/Users/rohil/Dropbox/PC/Desktop/DSA_Practice/Basics/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
